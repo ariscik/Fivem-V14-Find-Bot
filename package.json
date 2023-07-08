@@ -1,0 +1,17 @@
+{
+  "name": "fivem-bot",
+  "version": "3.2.0",
+  "description": "Aris Lesnar tarafından hazırlanmış V14 fivem sunucuları için bot.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aris Lesnar#0001",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord.js": "^14.0.1",
+    "full-fivem-api": "^1.0.8"
+  }
+}
